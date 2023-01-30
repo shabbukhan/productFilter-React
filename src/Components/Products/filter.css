@@ -1,0 +1,25 @@
+.filterGroup {
+    /* display: grid;
+    grid-gap: 20px;
+    margin-inline: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 200px));
+    justify-content: center;
+    margin-block: 5rem; */
+}
+
+.filterGroup section, .blockContainter{
+    margin: 2rem 1rem;
+}
+
+.d_flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Collapsible__trigger{
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: underline;
+    cursor: pointer;
+}

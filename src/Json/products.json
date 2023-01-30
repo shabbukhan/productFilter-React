@@ -1,0 +1,36 @@
+{
+    "product":[
+        {
+          "title": "Women Maxi Green Dress",
+          "filtername": "Maxi",
+          "src" : "../images/img1.jpg"
+        },
+        
+        {
+            "title": "Women Kurta Suit",
+            "filtername": "Georgette Suit",
+            "src" : "../images/img3.jpg"
+        },
+        {
+          "title": "Men T-shirt",
+          "filtername": "T-shirts",
+          "src" : "../images/img4.jpg"
+        },
+        {
+          "title": "Georgette Stitched A-line Gown",
+          "filtername": "Georgette Suit",
+          "src" : "../images/img2.jpg"
+      },
+        {
+            "title": "Men T-shirt Black",
+            "filtername": "T-shirts",
+            "src" : "../images/img5.jpg"
+        },
+        {
+            "title": "Men Shirt",
+            "filtername": "Shirts",
+            "src" : "../images/img6.jpg"
+        }
+      ]
+}
+
